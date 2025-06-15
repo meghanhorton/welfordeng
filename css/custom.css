@@ -1,0 +1,7 @@
+body{
+    background-image: url('../assets/img/fredericksburg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    background-size: cover;
+}
